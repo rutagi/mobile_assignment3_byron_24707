@@ -15,6 +15,13 @@ like light mode  ![lightmode](https://github.com/rutagi/mobile_assignment3_byron
 
 and also in dark mode it looks like this  ![darkmode](https://github.com/rutagi/mobile_assignment3_byron_24707/assets/72490055/b959cfd3-5430-4f5a-ae9f-53f6cc9e034c)
 
+and with broadcast receiver to check internet connection through app
+
+when disconnected it shows a pop up message like  ![internet disconnrcted](https://github.com/rutagi/mobile_assignment3_byron_24707/assets/72490055/4718bf02-b866-4924-926d-f9f791e3f5c3)
+
+and when it is connected back it shows  ![internet connrcted](https://github.com/rutagi/mobile_assignment3_byron_24707/assets/72490055/dc60d1cb-a7ed-452f-9173-db3bb13a0df8)
+
+and when the battery is low  ![battery low](https://github.com/rutagi/mobile_assignment3_byron_24707/assets/72490055/60b21f41-5fe2-48fc-8c5f-71ad8433a327)
 
 
 
